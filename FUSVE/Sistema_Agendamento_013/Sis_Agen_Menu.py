@@ -1,5 +1,6 @@
 import os
 
+
 txt_menu_principal = str("SISTEMA DE AGENDAMENTO (V.0.13)")
 n_op_01 = int("01")
 n_op_02 = int("02")
@@ -15,10 +16,8 @@ txt_sugestao_opc_inv = str("Opção Invalida.")
 txt_sucesso_sair = str("MUITO OBRIGADO POR USAR O SISTEMA DE AGENDAMENTO")
 txt_interacao_opcao = str("Digite a Opção Desejada: ")
 
-
 def menu_data_base():
     os.system('cls')
-
 
 def info():
     print(f"\t\033[92;1m{'':*^64}\033[0;0m")
@@ -29,7 +28,9 @@ def info():
     print(f"\t\033[92;1m{'':*^64}\033[0;0m")
 
 
+
 opcao = 0
+
 
 while opcao != 3:
     menu_data_base()

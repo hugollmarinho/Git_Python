@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0021974-203a-4e6f-bc25-dc522b1e9ccc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../DMS_Projects/Desafio_Olimpiadas/.idea/Desafio_Olimpiadas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DMS_Projects/Desafio_Olimpiadas/.idea/Desafio_Olimpiadas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/.idea/Sistema_Agendamento011.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/CDB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/Criar Data Base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/FormConsole.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/SAL_012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/SAL_013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/SIS_BETA.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento011/login_teste.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/Sistema_Agendamento_013.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/Sistema_Agendamento_013.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sistema_Agendamento_013/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d0021974-203a-4e6f-bc25-dc522b1e9ccc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +79,8 @@
       <workItem from="1658168497049" duration="75000" />
       <workItem from="1658168651729" duration="161000" />
       <workItem from="1658230652499" duration="26000" />
+      <workItem from="1658236379116" duration="37000" />
+      <workItem from="1658236857669" duration="6000" />
     </task>
     <servers />
   </component>
@@ -110,5 +97,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
