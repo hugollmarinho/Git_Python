@@ -1,0 +1,37 @@
+Universidade de Vassouras - Maricá - Campus I
+
+Pensamento Computacional - (ESW01)
+Alessandra Alves Fonseca Vargas
+
+Turma: Eng. Software 2022.1 - Turma A
+
+P1 - Projeto Sistema de Votação
+
+202211538 - Angélica Gomes da Silva
+202211006 - Gabriel Silva Provietti da Costa
+202211182 - Hugo Lelly de Lima Marinho
+202211156 - Priscila Paula Lima Tristão
+202211205 - Quézia Trindade Moura
+====================================//====================================
+*Modo de Execução*
+1º Abrir "cadastro_candidato.py" e cadastar os candidatos.
+2º Abrir "cadastro_eleitor.py" e cadastra os eleitores.
+3º Abrir "urna.py" e iniciar a votação.
+4º Abrir o "" e verificar a votação.
+
+Obs: Sempre que iniciar uma nova votação os arquivos "candidatos.txt",
+"eleitores.txt" e "votos.txt" devem ser apagados.
+====================================//====================================
+*Guia de Apresentação*
+
+Hugo Lelly de Lima Marinho: Introdução e Operação
+Priscila Paula Lima Tristão: Cadastro dos Candidatos
+Angélica Gomes da Silva: Cadastro dos Eleitores
+Quézia Trindade Moura: Menu
+Gabriel Silva Provietti da Costa: Urna
+
+====================================//====================================
+Nosso código foi desenvolvido usando o "Visual Studio Code" e apresentou
+algumas falhas ao rodar no "PyCharm" e no "Spyder".
+Sugerimos a utilização do "Visual Studio Code" para a execução do código.
+O link para download do "Visual Studio Code" https://code.visualstudio.com/download
